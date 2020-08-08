@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I work at Institute Tecgraf/PUC-Rio as Team Leader for the Distributed System´s Group.
+I work at Tecgraf/PUC-Rio as Team Leader for the Distributed System´s Group.
 
 I love to read about software development methodologies, best practices and principles for software development, software architecure, culture and processes for software development and DevOps.
 
