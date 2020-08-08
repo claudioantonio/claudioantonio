@@ -4,7 +4,7 @@ I work at Institute Tecgraf/PUC-Rio as Team Leader for the Distributed System´s
 
 I love to read about software development methodologies, best practices and principles for software development, software architecure, culture and processes for software development and DevOps.
 
-- 🌱 I’m currently learning React at Semana de Imersão React da Alura.
+- 🌱 I’m currently learning React.
 <!--
 **claudioantonio/claudioantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
