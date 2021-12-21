@@ -1,11 +1,11 @@
 ### Welcome 👋
-Currently I work at Cartesi as Project Manager.
+Currently I work at Cartesi in the product team.
 
 My previous work was at Tecgraf/PUC-Rio as Team Leader for the Distributed System´s Group.
 
 I love to read about software development methodologies, best practices and principles for software development, software architecture, culture and processes for software development and DevOps.
 
-Publication
+### Publication
 - Silva, C. A.; Seixas, R. B.; Arquitetura de um Modelo de Confronto Baseado em Agentes Autônomos e Dados Geográficos; VII Simpósio de Pesquisa Operacional e Logística da Marinha - SPOLM 2004; 2004.
 - Silva, C. A.; "Modelagem Comportamental para Agentes em Ambientes Reais"; Master Thesis, University of the State of Rio de Janeiro; 2003.
 - Seixas, R. B.; Figueiredo, L. H.; Silva, C. A.; “Interpolação de Curvas de Nível por Difusão de Calor”, III Workshop Brasileiro de GeoInformática – GEOINFO 2001, pp. 115-122, 2001.
