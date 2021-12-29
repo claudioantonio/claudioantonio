@@ -1,7 +1,5 @@
 ### Welcome 👋
-Currently I work at Cartesi in the product team.
-
-My previous work was at Tecgraf/PUC-Rio as Team Leader for the Distributed System´s Group.
+My name is Cláudio and I work as a software engineer at cartesi.io helping to build a solution to bring mainstream software developers to the blockchain domain. Before I worked at Tecgraf/PUC-Rio as Team Leader in the Distributed System´s Group which I consider my second home and I will always have in my heart!
 
 I love to read about software development methodologies, best practices and principles for software development, software architecture, culture and processes for software development and DevOps.
 
